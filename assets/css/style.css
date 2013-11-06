@@ -1,0 +1,276 @@
+#tabs{height:100%}
+#tabs-2{height:950px}
+#tabs-3{height:850px}
+#tabs-4{height:710px;margin-top:20px}
+#tabs-5{height:700px}
+#tabs-6{height:750px}
+#tabs-7{height:1170px}
+#tabs-8{height:800px}
+#main_container h2{color:#40428F;font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;padding-bottom:15px}
+.grid_4.alpha{width:340px}
+.grid_4.omega{padding-bottom:15px;width:340px}
+.grid_11.alpha{width:915px;margin-left:21px;margin-bottom:20px}
+.ui-widget-header.module{background-image:url(../img/mod_header_blue_bg.png);border-bottom:none;height:40px;font-size:26px;border-color:#1C94C4}
+.ui-widget-content.module{height:230px;background-image:url(../img/ui-content-background.png);background-repeat:repeat;border-color:#1C94C4}
+.send-email{text-align:center;margin-top:15px}
+.history{background-image:url(../img/history_btn.png)}
+.greenButton{background-image:url(../img/green_btn_bg.png)}
+#sendTextForm{background-image:url(../img/ui-content-background.png);background-repeat:repeat}
+table.sendTextMessage{width:436px;margin-bottom:10px;float:left;color:#3C3E8B;font-size:16px;font-weight:700}
+table.sendTextMessage td{padding:5px}
+table.sendTextMessage input{float:right;width:172px;margin-right:35px}
+table.sendTextMessage select{float:right;width:177px;margin-right:34px}
+table.sendTextMessage textarea{float:right;width:172px;margin-right:33px;height:146px}
+#txtphone1{float:right;width:30px;margin-right:83px}
+#textButton{margin-left:309px;margin-top:26px}
+.button1{padding-top:45px;padding-left:50px}
+.button3{padding-top:30px;padding-left:80px}
+.button4{padding-top:30px;padding-left:50px}
+.send-btn{position:relative;float:left;margin-bottom:10px}
+.send-btn .send-text{font-size:17px;color:#fff;left:40px;position:absolute;top:2px}
+.send-btn .lists-text{font-size:17px;color:#fff;left:50px;position:absolute;top:2px}
+.send-btn .series-text{font-size:17px;color:#fff;left:25px;position:absolute;top:2px;cursor:pointer}
+.send-btn .ref-text{font-size:17px;color:#fff;left:65px;position:absolute;top:2px}
+.send-btn .auto-text{font-size:17px;color:#fff;left:35px;position:absolute;top:2px}
+.send-btn .edit-text{font-size:17px;color:#fff;left:80px;position:absolute;top:2px}
+.history-btn .history-text{color:#FFF;font-size:16px;left:40px;position:absolute;top:1px}
+.history-btn .sign-text{color:#FFF;font-size:16px;left:57px;position:absolute;top:1px}
+.light-purple-btn .light-purple-text{color:#FFF;font-size:15px;left:10px;position:absolute;top:2px}
+.attach-btn .attach-text{color:#FFF;font-size:16px;left:60px;position:absolute;top:1px}
+.images-btn .images-text{color:#FFF;font-size:16px;left:80px;position:absolute;top:1px}
+.banner-btn .banner-text{color:#FFF;font-size:16px;left:65px;position:absolute;top:1px}
+.lib-btn .lib-text{color:#FFF;font-size:16px;left:70px;position:absolute;top:1px}
+.social-btn .social-text{color:#FFF;font-size:12px;left:45px;position:absolute;top:2px}
+.txt-btn .txt-text{font-size:17px;color:#fff;left:40px;position:absolute;top:4px}
+.ui-widget-content.time{margin-top:1px;width:215px;height:271px;background-image:url(../img/ui-content-background.png);background-repeat:repeat;border-color:#939393}
+.ui-widget-content.time p{font-size:18px;padding-left:20px;color:#939393}
+.ui-widget-header.timefooter{padding-left:110px;background-image:url(../img/Dashboard_grn_btn.png);border-color:#939393}
+.tl-items{font-size:12px;padding-left:40px;padding-top:5px;padding-bottom:5px}
+.ui-widget-header.step1{background-color:#FFF;width:300px;height:40px;color:#40428F;font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;padding-left:25px}
+.ui-widget-content.step1{border:none;display:none}
+.ui-widget-content.who{margin-bottom:18px;padding-left:20px;background-image:url(../img/ui-content-background.png);background-repeat:repeat}
+.tab-2-container p{font-size:16px;color:#373888}
+table.sendToChoice{font-size:12px;width:244px;margin-top:15px}
+table.sendToChoice td{color:#000;padding-bottom:10px}
+table.sendToChoice input{float:right;width:192px}
+table.sendToChoice select{float:right;width:155px}
+table.scheduleEmailLater{font-size:12px;width:300px;margin-top:15px}
+table.scheduleEmailLater td{color:#000}
+table.scheduleEmailLater h2{font-size:14px;color:#40428F;margin-bottom:15px}
+table.scheduleEmailLater input{float:right;margin-right:100px}
+.listFiles{width:245px;margin-top:20px;margin-bottom:10px}
+table.sendLaterTable{font-size:12px;width:175px;margin-bottom:10px;float:left}
+table.sendLaterTable td{color:#000;padding:5px}
+table.sendLaterTable input{float:right;width:64px}
+table.sendLaterTable select{float:right;width:68px}
+#scheduleLater{cursor:pointer}
+.ui-widget-content.csvFile{padding-left:15px;margin-bottom:20px;background-image:url(../img/ui-content-background.png);background-repeat:repeat}
+.ui-widget-content.csvExample{padding-left:15px;width:325px;background-image:url(../img/ui-content-background.png);background-repeat:repeat}
+#browseCSV{margin-right:25px;margin-top:10px}
+#browseCSVInput{margin-left:10px}
+#uploadCSV{margin-left:10px;margin-bottom:103px}
+#download{font-size:10px;margin-top:5px;margin-bottom:5px;margin-left:200px}
+.ui-widget-content.attach{padding-left:15px;background-image:url(../img/ui-content-background.png);background-repeat:repeat}
+.ui-widget-header.editor{padding-left:8px}
+.ui-widget-content.editor{padding-left:8px;height:725px}
+.tab-3-container h2{font-size:16px;color:#4CBDF5}
+.tname{color:#31368A}
+.manageButtons{margin-top:15px;margin-left:20px}
+#listInnerContent{margin-bottom:20px}
+.ui-widget-content.searchList{padding-left:20px;height:100px;background-image:url(../img/ui-content-background.png)}
+.ui-widget-content.newlist{min-height:650px;background-image:url(../img/ui-content-background.png);background-repeat:repeat}
+.ui-widget-content.newlist h2{margin-top:20px;float:left}
+#searchButton{font-size:12px;float:right;margin-top:10px;margin-right:10px}
+#listName{width:220px;margin-left:10px}
+.listTable{width:400px;margin-top:15px;cellpadding:5px}
+.listTable input{width:185px}
+.listTable td{padding-bottom:10px}
+.listfooter{width:539px;height:40px;background:#373888;font-size:10px;float:left}
+#sendList{margin-top:5px;margin-left:15px}
+#saveList{margin-left:300px}
+#chooseFile{margin-top:15px;margin-left:210px}
+#uploadFile{margin-left:230px;margin-top:25px}
+.ui-widget-content.import{width:545px;height:150px}
+.import{float:left}
+table.searchTable{font-size:12px;width:300px;background-color:#F7B64B;color:#fff}
+table.searchTable td{color:#000;background-color:#FFF;padding:5px}
+#addRows{float:left;font-size:12px}
+#export{height:23px}
+#editList{font-size:12px}
+.ui-widget-content.companySelect{padding-left:20px;height:100px;background-image:url(../img/ui-content-background.png);background-repeat:repeat}
+.ui-widget-content.series{min-height:683px;background-image:url(../img/ui-content-background.png);background-repeat:repeat;overflow:auto;width:540px}
+.ui-widget-content.manageSeries{padding-left:20px;height:240px;background-image:url(../img/ui-content-background.png);background-repeat:repeat}
+.ui-widget-content.manageSeries p{font-size:12px;font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;font-style:italic;margin-top:10px;color:#339}
+.secondSelect{padding-top:60px}
+.seriesname{margin-left:85px}
+.addTemplateSeries{margin-bottom:50px;margin-right:20px}
+.ui-widget-header.serieslist{background-image:url(../img/mod_header_blue_bg.png);padding-left:25px;height:25px;font-size:15px;cursor:pointer;border-color:#1C94C4}
+.ui-widget-content.serieslist{height:160px;background-image:url(../img/ui-content-background.png);background-repeat:repeat}
+.ui-widget-header.serieslistmore{background-image:url(../img/mod_header_blue_bg.png);padding-left:25px;height:25px;font-size:15px;cursor:pointer;margin-top:10px;border-top-left-radius:10px;border-top-right-radius:10px;border-color:#1C94C4}
+.ui-widget-content.serieslistmore{height:205px;background-image:url(../img/ui-content-background.png);background-repeat:repeat;display:none}
+#plus{float:right;margin-right:20px}
+.templateDropDown{margin-left:20px;margin-top:15px;margin-bottom:10px}
+.seriesButtons{margin-left:280px;margin-top:10px;margin-bottom:5px}
+.seriesfooter{position:absolute;width:538px;height:40px;background:#373888;font-size:10px;float:left;margin-left:388px}
+#deleteSeries2{margin-left:310px;margin-top:5px}
+.ui-widget-header.abook{margin-top:1px;width:215px;background-image:url(../img/mod_header_grey_bg.png);height:40px;font-size:24px;border-color:#939393}
+.ui-widget-content.abook{width:215px;height:232px;border-bottom:#939393;background-image:url(../img/ui-content-background.png);background-repeat:repeat;border-color:#939393}
+.addressList{font-size:18px;padding-left:65px;padding-top:35px}
+.ui-widget-header.abook hr{color:#00F;padding-right:15px}
+.ui-widget-header.afooter{background-image:url(../img/mod_header_grey_bg.png);height:30px;margin-top:100px;font-size:.7em;padding-left:3px;padding-top:5px;border-color:#939393}
+.importcontacts{height:45px;text-align:left;color:#fff;font-size:26px;margin-bottom:35px;background-image:url(../img/profile_drk_blue_bg.png);border-color:#1C94C4}
+.ui-widget-header.recentlists{background-image:url(../img/mod_header_grey_bg.png);height:30px;font-size:20px;padding-left:20px;border-color:#939393}
+.ui-widget-content.recentlists{margin-bottom:15px;height:165px;background-image:url(../img/ui-content-background.png);background-repeat:repeat;border-color:#B2B2B2}
+.ui-widget-header.recentadded{background-image:url(../img/mod_header_grey_bg.png);height:30px;font-size:20px;border-color:#939393}
+.ui-widget-content.recentadded{height:365px;background-color:#EEE;background-image:url(../img/ui-content-background.png);background-repeat:repeat;border-color:#B2B2B2}
+.ui-widget-header.addresslist{background-image:url(../img/mod_header_blue_bg.png);height:40px;font-size:25px;border-color:#1C94C4}
+.ui-widget-content.addresslist{height:650px;background-color:#EEE;border-bottom-left-radius:10px;border-bottom-right-radius:10px;background-image:url(../img/ui-content-background.png);background-repeat:repeat;border-color:#5BC0F2}
+.ui-widget-header.recentFooter{background-image:url(../img/mod_header_grey_bg.png);height:30px;position:absolute;bottom:18px;width:334px;font-size:.7em;padding-left:3px;padding-top:3px;border-color:#939393}
+.ui-widget-header.listFooter{background-image:url(../img/mod_header_blue_bg.png);height:30px;bottom:18px;font-size:.7em;padding-left:3px;padding-top:3px;position:absolute;width:535px;border-color:#939393}
+#recentAdded{margin-top:50px}
+.search{font-size:20px}
+.top-book{margin-top:10px}
+.letter-bar{clear:both;background-color:#5BC0F2;height:30px;margin-top:10px;font-size:16px;text-align:center}
+.send-recent-added{margin-left:20px}
+.delete-recent-added{margin-left:100px}
+.delete-list{margin-left:290px}
+.marketing-list-button{margin-left:65px}
+#browseVcard{float:left;margin-top:20px}
+#browseInput{width:170px;margin-left:5px;height:20px;margin-top:22px}
+.quick-create-contact .ui-dialog{position:fixed;overflow:hidden;margin-left:515px;margin-top:100px;height:800px;padding:.2em}
+.addContact{font-size:12px;float:left;margin-right:82px}
+.ui-widget-header.profile{margin-top:10px;background-image:url(../img/mod_header_blue_bg.png);height:40px;font-size:24px;border-top-left-radius:10px;border-top-right-radius:10px;border-color:#1C94C4}
+.ui-widget-content.profile{height:423px;border-top:none;border-bottom-right-radius:10px;background-image:url(../img/ui-content-background.png);background-repeat:repeat;border-color:#1C94C4}
+.grid_3.pic{border-right:#c8c8c8 1px solid;height:490px;width:240px}
+.grid_3.pic img{padding-left:30px}
+.delete_pic{padding-top:10px}
+.add_pic{padding-left:4px;padding-top:30px}
+.ui-widget-header.emailsign{margin-top:10px;background-image:url(../img/profile_drk_blue_bg.png);height:40px;font-size:24px;border-color:#1C94C4}
+.ui-widget-content.emailsign{height:680px;border-top:none;background-image:url(../img/ui-content-background.png);background-repeat:repeat;border-color:#1C94C4}
+.grid_3.sender_account{float:right;padding-right:210px;height:500px;width:76px}
+.my_sender{padding-left:20px;width:250px}
+.my_sender select{width:200px;margin-left:20px}
+.company_select{padding-left:20px;padding-bottom:10px;width:350px}
+.company_select select{width:180px;margin-left:20px}
+.extra_senders{margin-top:20px}
+#ett_more_senders{display:none;overflow:auto}
+#ett_more_senders .ui-dialog{position:fixed;width:300px;overflow:auto;margin-left:515px;margin-top:100px;padding:.2em}
+.sender_img{padding-top:20px;padding-bottom:25px}
+.ui-widget-header.profile-img{padding-left:15px}
+.ui-widget-content.profile-img{height:120px}
+.ui-widget-content.sender-info-sign{height:375px;padding-left:15px;padding-top:5px;background-image:url(../img/ui-content-background.png);background-repeat:repeat}
+.ui-widget-content.sender-info-sign td{padding-bottom:2px}
+.sender_account_form{margin-top:25px;width:265px}
+.delete_pic_2{padding-top:10px;padding-left:10px}
+.add_pic_2{padding-left:20px;padding-top:10px}
+.browse2{margin-left:25px;margin-top:5px}
+.edit_info2{margin-top:5px;padding-left:111px}
+#edit-form input{width:228px}
+.referral-link{padding-left:10px;padding-top:10px}
+.ref-btn .ref-text{color:#FFF;font-size:13px;left:40px;position:absolute;top:2px}
+.social-link{padding-left:50px}
+.grid_5.sender{border-right:#c8c8c8 1px solid;height:490px;width:330px;margin-left: -5px;    padding-right: 9px;}
+.sender-info-table td{color:#a5a5a5;padding-bottom:1px;padding-left:10px;font-size:15px}
+.first-td{width:30px}
+.second-td{word-break:break-all;width:160px}
+.edit_info{margin-top:22px;margin-left:25px;width:290px}
+.change-button{padding-left:20px;padding-top:40px}
+.manage_social{margin-top:30px;margin-left:60px}
+.manage_groups{margin-top:10px;margin-left:60px}
+.change_password{margin-top:10px;margin-left:5px}
+.ui-widget-content.subgroups1{margin-top:6px;margin-bottom:8px;min-height: 150px;height:auto;overflow:auto;padding-bottom:8px;width:259px;background-image:url(../img/ui-content-background.png);background-repeat:repeat}
+.ui-widget-content.subgroups2{margin-top:6px;height:auto;overflow:auto;background-image:url(../img/ui-content-background.png);background-repeat:repeat}
+#manageSubGroups h1{font-size:18px;font-family:"Trebuchet MS", Arial, Helvetica, sans-serif}
+#listGroups{margin-left:15px;margin-top:5px}
+#listGroups td{padding-right:10px}
+#addSubgroup{margin-left:135px;margin-top:10px}
+#newSubgroup{margin-top:7px;margin-left:15px}
+#listUsertypes{margin-left:11px;margin-top:10px;width:500px}
+#variables{margin-left:20px;margin-top:20px;width:300px}
+.browseProfile{margin-left:1px}
+.company-info-table td{padding-bottom:10px;padding-right:2px;width:300px}
+.compdata{padding-left:20px;float:right}
+.sub-btn-div{padding-left:50px;padding-top:10px}
+.sub-btn .sub-text{color:#FFF;font-size:14px;left:50px;position:absolute;top:2px}
+.save-button{align:bottom}
+.subgroup{margin-left:70px}
+.ui-widget-content.history{height:650px;background-image:url(../img/ui-content-background.png);background-repeat:repeat}
+.ui-widget-content.history h2{font-size:20px;margin-top:15px}
+#pending{float:right;margin-top:15px;margin-right:20px;font-size:12px}
+#historyFooter{position:absolute;width:859px;height:40px;background:#373888;font-size:10px;float:left;bottom:162px}
+#deleteHistory{margin-left:600px;margin-top:7px}
+.searchBar{margin-left:109px}
+.searchBar input{width:230px}
+#go{font-size:12px;margin-left:5px}
+#viewTexts{margin-top:15px;margin-left:400px;font-size:12px}
+.grid_3.alpha{margin-left:24px}
+.ui-widget-header_bl{background:url(../img/mod_header_blue_bg.png);border:1px solid #1C94C4;color:#FFF;font-weight:700}
+.ui-widget-header_bl.who{padding-left:20px;cursor:pointer}
+.ui-widget-content_bl.who{background-color:#E6EEED;background-repeat:repeat;margin-bottom:18px;padding-left:20px}
+.ui-widget-content_bl{border:1px solid #1C94C4;color:#333}
+.templateDropDown_ser{margin-bottom:10px;margin-left:-13px;margin-top:9px}
+.sendDate_ser{margin-bottom:10px;margin-left:-9px}
+.selectRepeat_ser{margin-bottom:10px;margin-left:-8px}
+.seriesButtons_ser{margin-bottom:5px;margin-left:90px;margin-top:10px;width:100%}
+.prof-completed{background-image:url(../img/icon_chk.png);background-repeat:no-repeat;background-size:10px 10px;background-position:center;margin-right:10px;padding-right:10px;float:right}
+.prof-incomplete{background-image:url(../img/icon_ex.png);background-repeat:no-repeat;background-size:10px 10px;background-position:center;margin-right:10px;padding-right:10px;float:right}
+.temp_preview{font-size:10px!important;float:left;top:43px;height:20px}
+.prev-sent{background-image:url(../img/search-icon.png);background-repeat:no-repeat;background-size:17px 17px;background-position:center;margin-left:5px;padding-right:17px;cursor:pointer}
+#csvUpload{border:1px solid #FFC469;background-color:#FCDCAD;text-align:center;display:none;padding:5px 0}
+.icon,.iconcontact{float:left;padding-right:5px}
+#txtphone2,#txtphone3{float:right;width:30px;margin-right:11px}
+.button2,.button5{padding-top:40px;padding-left:50px}
+.history-btn,.pic-btn,.attach-btn,.images-btn,.banner-btn,.lib-btn,.social-btn,.ref-btn,.sub-btn{position:relative;float:left;padding-left:30px}
+.history-btn .profile-text,.history-btn .social-text,.pic-btn .pic-text{color:#FFF;font-size:16px;left:55px;position:absolute;top:1px}
+.light-purple-btn,.txt-btn{position:relative;float:left}
+.txtbutton,.quick-create-contact input{margin-bottom:15px}
+.ui-widget-header.sendeditor,.ui-widget-header.options,.ui-widget-header.who,.ui-widget-header.attachment,.ui-widget-header.send{padding-left:20px}
+.ui-widget-content.options,.ui-widget-content.attachment,.ui-widget-content.send{padding-left:20px;margin-bottom:18px;background-image:url(../img/ui-content-background.png);background-repeat:repeat}
+.selectTemplate,.sendFrom{width:245px;margin-bottom:20px;margin-top:10px}
+.selectLabel,.attachFile,.saveEmail,#upload,#manageAttach{margin-bottom:10px}
+#selectSeries,#importcontacts a,#importContact{text-decoration:none}
+.ui-widget-header.csvFile,.ui-widget-header.csvExample,.ui-widget-header.manage,.ui-widget-header.banner,.ui-widget-header.attach{background-image:url(../img/mod_header_blue_bg.png);padding-left:15px;border-color:#1C94C4}
+table.timepicker,#searchList,.sender-info-table{width:300px;line-height: 31px;}
+#manageTemplatesWidget,#leftWidgets{margin-left:25px}
+.ui-widget-content.manage,.ui-widget-content.banner{margin-bottom:15px;padding-left:15px;background-image:url(../img/ui-content-background.png);background-repeat:repeat}
+.selectCompany option,.sender-table td,#newGroupName,.templateDropser{width:200px}
+.ui-widget-header.searchList,.ui-widget-header.companyList,.ui-widget-header.myLists,.ui-widget-header.compLists{padding-left:20px;background-image:url(../img/mod_header_blue_bg.png);border-color:#1C94C4}
+.ui-widget-content.searchList p,.ui-widget-content.companyList p{font-size:12px;font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;font-style:italic;margin-top:5px;color:#339}
+.ui-widget-content.companyList,.ui-widget-content.myLists,.ui-widget-content.compLists{padding-left:20px;background-image:url(../img/ui-content-background.png);height:100px}
+.ui-widget-header.newlist,.ui-widget-header.series,.ui-widget-header.history{background-image:url(../img/mod_header_blue_bg.png);padding-left:20px;border-color:#1C94C4}
+#compName,#myList,#compList{width:300px;margin-top:15px}
+.listentry,#importList{margin-left:100px;margin-top:20px}
+.example,#addTemplateSeries,#copyTemplateSeries,.company_info select{float:right}
+#delList1,#editList1,#sendList1,#delList2,#editList2,#sendList2{font-size:12px;margin-top:15px}
+.ui-widget-header.companySelect,.ui-widget-header.manageSeries{padding-left:20px;background-image:url(../img/mod_header_blue_bg.png);border-top-left-radius:10px;border-top-right-radius:10px;border-color:#1C94C4}
+#companySelect,#compSeries,#mySeries{width:300px;margin-top:10px}
+#selectCompany,#selectCSeries,#selectMSeries,.agent_thumb{float:right;margin-right:15px;margin-top:10px}
+#createCSeries,#createMSeries{float:left;margin-top:10px}
+.sendDate,.selectRepeat{margin-left:20px;margin-bottom:10px}
+#sendseries,.change-button2{margin-top:5px}
+#addNewTemplate label,.quick-create-contact label,.contactform label,#ett_more_senders label,#edit-form2 label,#edit-form label,#new-form label{display:table-cell;white-space:nowrap}
+#addToSeries{display:block}
+#addNewTemplate .ui-dialog,.contactform .ui-dialog,#edit-form2 .ui-dialog{position:fixed;width:300px;overflow:hidden;margin-left:515px;height:500px;padding:.2em}
+.group,.picktemplate{width:200px;margin-bottom:20px}
+#importContact a:visited,#importContact a{color:#FFF;text-decoration:none}
+#recentTable,#recentTable td,#recentAdded td{background-color:#EEE}
+#recentTable th,#recentAdded th{border:none}
+.profile_container,.sign_container{padding-top:35px}
+.grid_3.pic h2,.grid_3.sender_account h2,.grid_5.sender h2,.grid_3.cinfo h2{font-size:14px;color:#4D4E91;padding-left:10px}
+.add_pic p,.add_pic_2 p{font-weight:700}
+.ui-widget-header.sender-info-sign,.sdata{padding-left:10px}
+#edit-form2 input,#new-form input{width:270px}
+#edit-form .ui-dialog,#new-form .ui-dialog{position:fixed;width:300px;overflow:hidden;margin-left:515px;margin-top:100px;height:500px;padding:.2em}
+.grid_3.cinfo,.company_info{width:280px}
+ .paginationFooter{margin-bottom: 20px; background-color: #8DBDD8;}
+ .paginationFooter a{padding: 0px 4px ;}
+ .paginationFooter strong{padding: 0px 4px;}
+ .searchAligner{display: block; margin: 50px 0px 10px 80px;}
+ .searchAligner .search-box input{border: 1px solid #8DBDD8; width: 350px; border-radius: 0px;}
+ .addContactButton{font-size:12px;float:left;}
+#search{border: 1px solid #888;margin-bottom: 5px;outline: 0px;float:left;}
+.search-sym{float:left;cursor: pointer;margin-left: 5px;}
+#addListForm #search{width: 255px;}
+.upload-name2{
+    display: block;background-color: #FCDCAD;font-weight: bold;border: 1px solid;border-color: #FFC469;margin-bottom: 5px;margin-top: 5px;text-align: center;padding:5px;
+}
